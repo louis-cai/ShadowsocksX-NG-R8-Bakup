@@ -1,5 +1,5 @@
 # ShadowsocksX-NG-R8-Bakup
-Before running this app, you should verify it first.
+You should verify this app before running it.
 
-Please import sign key here: https://github.com/qinyuhang/Pubkey
+Import sign key here: https://github.com/qinyuhang/Pubkey
 
