@@ -1,5 +1,7 @@
 # ShadowsocksX-NG-R8-Bakup
-You should verify this app before running it.
+**ShadowsocksX-NG-R8 is back!** Please download the latest update here: https://github.com/qinyuhang/ShadowsocksX-NG-R/releases
 
-Import sign key here: https://github.com/qinyuhang/Pubkey
+~~You should verify this app before running it.~~
+
+~~Import sign key here: https://github.com/qinyuhang/Pubkey~~
 
