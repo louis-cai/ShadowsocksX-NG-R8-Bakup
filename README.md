@@ -5,3 +5,6 @@
 
 ~~Import sign key here: https://github.com/qinyuhang/Pubkey~~
 
+This version has **NO** checksum, **use at your own risk!**
+
+
